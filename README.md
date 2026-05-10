@@ -173,18 +173,9 @@ GET    /api/users                All students (admin)
 
 ---
 
-## 📚 Curriculum Coverage
-
-This project covers all units from the Full Stack Development syllabus:
-
-- **Unit I**: Full stack architecture — React frontend, Express backend, MongoDB database, Node.js runtime
-- **Unit II**: Node.js — Event model, callbacks, HTTP server, JSON handling, File system (via Express), Query strings, Request/Response objects
-- **Unit III**: MongoDB — CRUD operations, Mongoose schema/models, MongoDB Node.js driver, connecting from Node.js
-
----
 
 ## 👨‍💻 Developed For
 
 BVRIT Hyderabad College of Engineering for Women  
 Department of Computer Science & Engineering  
-Full Stack Development Project — 2024
+Full Stack Development Project — 2026
